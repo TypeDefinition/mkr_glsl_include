@@ -1,4 +1,4 @@
-// Copyright(c) 2024-present, Lim Ngian Xin Terry & mkr_glsl_include contributors.
+// Copyright(c) 2024-present, Lim Zai Ciu Terri & mkr_glsl_include contributors.
 // Distributed under the MIT License (http://opensource.org/licenses/MIT)
 // glsl_include main header file.
 // See README.md for usage example.
